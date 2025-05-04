@@ -1,3 +1,5 @@
+// Practical 3: Implement Min, Max, Sum and Average operations using Parallel Reduction.  
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
